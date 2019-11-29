@@ -1,5 +1,7 @@
 {
   "name": "Favorite",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
