@@ -3,5 +3,6 @@
   "appName": "Favorite",
   "bundledWebRuntime": false,
   "npmClient": "npm",
-  "webDir": "build"
+  "webDir": "build",
+  "cordova": {}
 }
